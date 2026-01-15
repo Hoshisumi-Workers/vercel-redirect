@@ -2,13 +2,11 @@
   "redirects": [
     { 
       "source": "/",
-      "destination": "https://pabio.com",
-      "permanent": true
+      "destination": "https://qs.ouuo.lol"
     },
     { 
       "source": "/:path*",
-      "destination": "https://pabio.com/:path*",
-      "permanent": true
+      "destination": "https://qs.ouuo.lol/:path*"
     }
   ]
 }
