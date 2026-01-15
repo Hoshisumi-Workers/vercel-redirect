@@ -2,11 +2,13 @@
   "redirects": [
     { 
       "source": "/",
-      "destination": "https://qs.ouuo.lol"
+      "destination": "https://qs.ouuo.lol",
+      "permanent": false
     },
     { 
       "source": "/:path*",
-      "destination": "https://qs.ouuo.lol/:path*"
+      "destination": "https://qs.ouuo.lol/:path*",
+      "permanent": false
     }
   ]
 }
